@@ -1,0 +1,10 @@
+Controls
+
+Game
+Up: Up Arrow Key
+Left: Left Arrow Key
+Down: Down Arrow Key
+Right: Right Arrow Key
+
+Pause
+Escape
